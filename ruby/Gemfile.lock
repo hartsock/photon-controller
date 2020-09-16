@@ -1,5 +1,5 @@
 PATH
-  remote: ./rubocop-photon
+  remote: rubocop-photon
   specs:
     rubocop-photon (0.0.1)
       rubocop
@@ -16,7 +16,7 @@ GEM
       nokogiri (~> 1.6.0)
       terminal-table (>= 1.4.0)
       thor (>= 0.16.0)
-    json (1.8.1)
+    json (2.3.1)
     mini_portile (0.6.0)
     mixlib-shellout (1.6.1)
     nokogiri (1.6.3.1)
